@@ -7,4 +7,4 @@ This is a Landing page for Cromaica Home Interior in which UI design from Figma 
 
 
 
-https://super1-1star.github.io/Cromatica-landing-page/
+https://cromatica-landing-page.netlify.app/
